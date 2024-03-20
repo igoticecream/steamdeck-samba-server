@@ -1,7 +1,7 @@
 #!/usr/bin/env xdg-open
 [Desktop Entry]
 Name=Install Samba Server
-Exec=curl -fsSL https://raw.githubusercontent.com/igoticecream/steamdeck-samba-server/main/samba.sh | bash -s -- gui
+Exec=curl -fsSL https://raw.githubusercontent.com/igoticecream/steamdeck-samba-server/main/samba-install.sh | bash -s --
 Icon=steamdeck-gaming-return
 Terminal=true
 Type=Application

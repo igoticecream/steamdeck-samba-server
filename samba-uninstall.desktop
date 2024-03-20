@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Uninstall Samba Server
+Exec=curl -fsSL https://raw.githubusercontent.com/igoticecream/steamdeck-samba-server/main/samba-uninstall.sh | bash -s --
+Icon=delete
+Terminal=true
+Type=Application
+StartupNotify=false

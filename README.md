@@ -5,7 +5,7 @@
   <br/>
   <br/>
   <br/>
-  <a name="download button" href="https://github.com/igoticecream/steamdeck-samba-server/releases/download/latest/samba.desktop"><img src="./docs/download_button.svg"  alt="Download steam-deck-samba-server" width="350px" style="padding-top: 15px;"></a>
+  <a name="download button" href="https://github.com/igoticecream/steamdeck-samba-server/releases/download/latest/samba-install.desktop"><img src="./docs/download_button.svg"  alt="Download steam-deck-samba-server" width="350px" style="padding-top: 15px;"></a>
   <br/>
   <br/>
   <a href="./LICENSE">
@@ -18,10 +18,10 @@
 To run the script, simply insert the following command in your SteamDeck terminal:
 
 
-`sh -c "$(curl -fsSL https://raw.githubusercontent.com/igoticecream/steamdeck-samba-server/main/samba.sh)"`
+`sh -c "$(curl -fsSL https://raw.githubusercontent.com/igoticecream/steamdeck-samba-server/main/samba-install.sh)"`
 
 
-This will automatically download and run the samba.sh file from the GitHub repository, which will install and configure the Samba server on your SteamDeck.
+This will automatically download and run the samba-install.sh file from the GitHub repository, which will install and configure the Samba server on your SteamDeck.
 
 ## Usage
 
