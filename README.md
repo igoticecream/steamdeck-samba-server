@@ -5,7 +5,7 @@
   <br/>
   <br/>
   <br/>
-  <a name="download button" href="https://github.com/igoticecream/steamdeck-samba-server/releases/download/latest/samba-install.desktop"><img src="./docs/download_button.svg"  alt="Download steam-deck-samba-server" width="350px" style="padding-top: 15px;"></a>
+  <a name="download button" href="https://github.com/igoticecream/steamdeck-samba-server/releases/latest/download/samba-install.desktop"><img src="./docs/download_button.svg"  alt="Download steam-deck-samba-server" width="350px" style="padding-top: 15px;"></a>
   <br/>
   <br/>
   <a href="./LICENSE">
