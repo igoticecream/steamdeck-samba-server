@@ -80,7 +80,7 @@ EOF
 echo "Adding 'deck' user to samba user database"
 (echo "$password"; echo "$password") | sudo smbpasswd -s -a deck
 
-# Enable and start smb service
+# Enable and start samba service
 echo "Enabling and starting samba service"
 sudo systemctl enable smb.service
 sudo systemctl start smb.service
@@ -90,8 +90,8 @@ echo "Adding samba firewall rules"
 firewall-cmd --permanent --zone=public --add-service=samba
 firewall-cmd --reload
 
-# Restart smb service
-echo "Restarting smb service"
+# Restart samba service
+echo "Restarting samba service"
 sudo systemctl restart smb.service
 
 # Enable steamos-readonly
