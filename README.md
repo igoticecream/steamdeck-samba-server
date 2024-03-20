@@ -5,7 +5,7 @@
   <br/>
   <br/>
   <br/>
-  <a name="download button" href="https://github.com/malordin/steamdeck-samba-server/releases/download/latest/samba.download"><img src="./docs/download_button.svg"  alt="Download steam-deck-samba-server" width="350px" style="padding-top: 15px;"></a>
+  <a name="download button" href="https://github.com/igoticecream/steamdeck-samba-server/releases/download/latest/samba.download"><img src="./docs/download_button.svg"  alt="Download steam-deck-samba-server" width="350px" style="padding-top: 15px;"></a>
   <br/>
   <br/>
   <a href="./LICENSE">
@@ -17,8 +17,8 @@
 
 To run the script, simply insert the following command in your SteamDeck terminal:
 
- 
-`sh -c "$(curl -fsSL https://raw.githubusercontent.com/malordin/steamdeck-samba-server/main/script.sh)"`
+
+`sh -c "$(curl -fsSL https://raw.githubusercontent.com/igoticecream/steamdeck-samba-server/main/script.sh)"`
 
 
 This will automatically download and run the script.sh file from the GitHub repository, which will install and configure the Samba server on your SteamDeck.
@@ -33,21 +33,20 @@ You should then be prompted to enter your SteamDeck username and password. Once 
 
 ## Contributing
 
-This project is open for criticism and contributions. Pull requests are accepted, and you can open [issues](https://github.com/malordin/steamdeck-samba-server/issues) in case of problems. If you like the project, you can show your support by putting a star.
+This project is open for criticism and contributions. Pull requests are accepted, and you can open [issues](https://github.com/igoticecream/steamdeck-samba-server/issues) in case of problems. If you like the project, you can show your support by putting a star.
 
 Thank you for your interest in this project. I am always open to feedback and suggestions to improve the project.
 
 ## License
 
-This script is licensed under the [MIT License](https://github.com/malordin/steamdeck-samba-server/blob/main/LICENSE). Feel free to use, modify, and distribute it as you see fit.
+This script is licensed under the [MIT License](https://github.com/igoticecream/steamdeck-samba-server/blob/main/LICENSE). Feel free to use, modify, and distribute it as you see fit.
 
 ## Star History
 
-<a href="https://star-history.com/#malordin/steamdeck-samba-server&Date">
+<a href="https://star-history.com/#igoticecream/steamdeck-samba-server&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=malordin/steamdeck-samba-server&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=malordin/steamdeck-samba-server&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=malordin/steamdeck-samba-server&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=igoticecream/steamdeck-samba-server&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=igoticecream/steamdeck-samba-server&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=igoticecream/steamdeck-samba-server&type=Date" />
   </picture>
-</a> 
-
+</a>
