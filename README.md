@@ -18,7 +18,7 @@
 To run the script, simply insert the following command in your SteamDeck terminal:
 
 
-`curl -fsSL https://raw.githubusercontent.com/igoticecream/steamdeck-samba-server/main/samba.sh | bash -s"`
+`sh -c "$(curl -fsSL https://raw.githubusercontent.com/igoticecream/steamdeck-samba-server/main/samba.sh)"`
 
 
 This will automatically download and run the samba.sh file from the GitHub repository, which will install and configure the Samba server on your SteamDeck.
